@@ -1,4 +1,5 @@
 # Aegis
+![Uploading Comp 1.gif…]()
 
 Локальный настольный менеджер паролей на Python и CustomTkinter.
 
