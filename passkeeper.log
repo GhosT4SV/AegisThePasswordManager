@@ -1,0 +1,323 @@
+2026-06-19 22:01:33  [INFO]  --- PassKeeper starting (pid=16260) ---
+2026-06-19 22:01:33  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-19 22:01:33  [INFO]  Security scan clean.
+2026-06-19 22:01:50  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-19 22:01:55  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-19 22:01:55  [WARNING]  FAIL2BAN: workstation locked after 2 failed attempts.
+2026-06-19 22:02:04  [INFO]  FAIL2BAN: successful login after 2 failed attempt(s). Counter reset.
+2026-06-19 22:04:49  [INFO]  --- PassKeeper starting (pid=29124) ---
+2026-06-19 22:04:49  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-19 22:04:49  [INFO]  Security scan clean.
+2026-06-19 22:05:02  [INFO]  --- PassKeeper starting (pid=3520) ---
+2026-06-19 22:05:02  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-19 22:05:03  [INFO]  Security scan clean.
+2026-06-19 22:05:45  [INFO]  --- PassKeeper starting (pid=3520) ---
+2026-06-19 22:05:45  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-19 22:05:46  [INFO]  Security scan clean.
+2026-06-19 22:05:49  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-19 22:06:08  [INFO]  --- PassKeeper starting (pid=3520) ---
+2026-06-19 22:06:08  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-19 22:06:09  [INFO]  Security scan clean.
+2026-06-19 22:06:29  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-19 22:06:29  [WARNING]  FAIL2BAN: workstation locked after 2 failed attempts.
+2026-06-19 22:06:57  [INFO]  FAIL2BAN: successful login after 2 failed attempt(s). Counter reset.
+2026-06-19 22:17:06  [INFO]  --- PassKeeper starting (pid=8452) ---
+2026-06-19 22:17:06  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-19 22:17:06  [INFO]  Security scan clean.
+2026-06-19 22:17:12  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-19 22:17:15  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-19 22:17:15  [WARNING]  FAIL2BAN: workstation locked after 2 failed attempts.
+2026-06-19 22:17:28  [INFO]  FAIL2BAN: successful login after 2 failed attempt(s). Counter reset.
+2026-06-19 22:18:21  [INFO]  --- PassKeeper starting (pid=8452) ---
+2026-06-19 22:18:21  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-19 22:18:21  [INFO]  Security scan clean.
+2026-06-19 22:20:09  [INFO]  Login successful.
+2026-06-19 22:23:22  [INFO]  --- PassKeeper starting (pid=5380) ---
+2026-06-19 22:23:22  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-19 22:23:23  [INFO]  Security scan clean.
+2026-06-19 22:23:51  [INFO]  Login successful.
+2026-06-20 00:38:13  [INFO]  --- PassKeeper starting (pid=28592) ---
+2026-06-20 00:38:13  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 00:38:13  [INFO]  Security scan clean.
+2026-06-20 00:38:16  [INFO]  --- PassKeeper starting (pid=6748) ---
+2026-06-20 00:38:16  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 00:38:16  [INFO]  Security scan clean.
+2026-06-20 00:38:21  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-20 00:38:26  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-20 00:38:26  [WARNING]  FAIL2BAN: workstation locked after 2 failed attempts.
+2026-06-20 00:42:00  [INFO]  --- PassKeeper starting (pid=28100) ---
+2026-06-20 00:42:00  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 00:42:00  [INFO]  Security scan clean.
+2026-06-20 00:45:48  [INFO]  --- PassKeeper starting (pid=26292) ---
+2026-06-20 00:45:48  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 00:45:48  [INFO]  Security scan clean.
+2026-06-20 00:46:06  [INFO]  --- PassKeeper starting (pid=14024) ---
+2026-06-20 00:46:06  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 00:46:06  [INFO]  Security scan clean.
+2026-06-20 06:46:56  [INFO]  --- PassKeeper starting (pid=22848) ---
+2026-06-20 06:46:56  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 06:46:56  [INFO]  Security scan clean.
+2026-06-20 06:47:02  [INFO]  --- PassKeeper starting (pid=22848) ---
+2026-06-20 06:47:02  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 06:47:02  [INFO]  Security scan clean.
+2026-06-20 06:47:07  [INFO]  FAIL2BAN: successful login after 2 failed attempt(s). Counter reset.
+2026-06-20 06:48:39  [INFO]  --- PassKeeper starting (pid=22848) ---
+2026-06-20 06:48:39  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 06:48:39  [INFO]  Security scan clean.
+2026-06-20 06:49:30  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-20 06:49:34  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-20 06:49:34  [WARNING]  FAIL2BAN: workstation locked after 2 failed attempts.
+2026-06-20 06:50:11  [INFO]  FAIL2BAN: successful login after 2 failed attempt(s). Counter reset.
+2026-06-20 06:51:28  [INFO]  Login successful.
+2026-06-20 07:00:43  [INFO]  --- PassKeeper starting (pid=22744) ---
+2026-06-20 07:00:43  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:00:44  [INFO]  Security scan clean.
+2026-06-20 07:00:46  [INFO]  Login successful.
+2026-06-20 07:10:06  [INFO]  --- PassKeeper starting (pid=11512) ---
+2026-06-20 07:10:06  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:10:06  [INFO]  Security scan clean.
+2026-06-20 07:10:09  [INFO]  Login successful.
+2026-06-20 07:15:34  [INFO]  --- PassKeeper starting (pid=12764) ---
+2026-06-20 07:15:34  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:15:34  [INFO]  Security scan clean.
+2026-06-20 07:19:49  [INFO]  Login successful.
+2026-06-20 07:21:20  [INFO]  --- PassKeeper starting (pid=24488) ---
+2026-06-20 07:21:20  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:21:20  [INFO]  Security scan clean.
+2026-06-20 07:21:33  [INFO]  --- PassKeeper starting (pid=24488) ---
+2026-06-20 07:21:33  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:21:34  [INFO]  Security scan clean.
+2026-06-20 07:21:37  [INFO]  --- PassKeeper starting (pid=24488) ---
+2026-06-20 07:21:37  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:21:37  [INFO]  Security scan clean.
+2026-06-20 07:23:46  [INFO]  Login successful.
+2026-06-20 07:25:08  [INFO]  --- PassKeeper starting (pid=28132) ---
+2026-06-20 07:25:08  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:25:09  [INFO]  Security scan clean.
+2026-06-20 07:25:23  [INFO]  Login successful.
+2026-06-20 07:39:28  [INFO]  --- PassKeeper starting (pid=13048) ---
+2026-06-20 07:39:28  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:39:28  [INFO]  Security scan clean.
+2026-06-20 07:39:34  [INFO]  Login successful.
+2026-06-20 07:53:11  [INFO]  --- PassKeeper starting (pid=13048) ---
+2026-06-20 07:53:11  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:53:11  [INFO]  Security scan clean.
+2026-06-20 07:54:48  [INFO]  --- PassKeeper starting (pid=27664) ---
+2026-06-20 07:54:48  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 07:54:49  [INFO]  Security scan clean.
+2026-06-20 16:30:20  [INFO]  --- PassKeeper starting (pid=28736) ---
+2026-06-20 16:30:20  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 16:30:20  [INFO]  Security scan clean.
+2026-06-20 16:30:49  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-20 16:30:54  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-20 16:30:54  [WARNING]  FAIL2BAN: workstation locked after 2 failed attempts.
+2026-06-20 16:31:18  [INFO]  Security scan clean.
+2026-06-20 16:31:18  [INFO]  FAIL2BAN: successful login after 2 failed attempt(s). Counter reset.
+2026-06-20 17:45:39  [INFO]  --- PassKeeper starting (pid=24376) ---
+2026-06-20 17:45:39  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 17:45:39  [INFO]  Security scan clean.
+2026-06-20 17:45:41  [INFO]  --- PassKeeper starting (pid=23832) ---
+2026-06-20 17:45:41  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-20 17:45:41  [INFO]  Security scan clean.
+2026-06-20 17:45:54  [INFO]  Security scan clean.
+2026-06-20 17:45:54  [INFO]  Login successful.
+2026-06-21 14:46:59  [INFO]  --- PassKeeper starting (pid=24796) ---
+2026-06-21 14:46:59  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 14:46:59  [INFO]  Security scan clean.
+2026-06-21 14:47:27  [INFO]  Security scan clean.
+2026-06-21 14:47:27  [INFO]  FAIL2BAN: new HMAC secret generated.
+2026-06-21 14:47:27  [INFO]  Login successful.
+2026-06-21 14:50:06  [INFO]  --- PassKeeper starting (pid=24796) ---
+2026-06-21 14:50:06  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 14:50:06  [INFO]  Security scan clean.
+2026-06-21 15:03:31  [INFO]  --- PassKeeper starting (pid=23656) ---
+2026-06-21 15:03:31  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:03:31  [INFO]  Security scan clean.
+2026-06-21 15:03:37  [INFO]  --- PassKeeper starting (pid=2228) ---
+2026-06-21 15:03:37  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:03:38  [INFO]  Security scan clean.
+2026-06-21 15:04:50  [INFO]  --- PassKeeper starting (pid=28372) ---
+2026-06-21 15:04:50  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:04:50  [INFO]  Security scan clean.
+2026-06-21 15:05:10  [INFO]  --- PassKeeper starting (pid=17416) ---
+2026-06-21 15:05:10  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:05:10  [INFO]  Security scan clean.
+2026-06-21 15:05:26  [INFO]  --- PassKeeper starting (pid=6176) ---
+2026-06-21 15:05:26  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:05:26  [INFO]  Security scan clean.
+2026-06-21 15:06:48  [INFO]  --- PassKeeper starting (pid=28496) ---
+2026-06-21 15:06:48  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:06:48  [INFO]  Security scan clean.
+2026-06-21 15:06:51  [INFO]  --- PassKeeper starting (pid=16780) ---
+2026-06-21 15:06:51  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:06:51  [INFO]  Security scan clean.
+2026-06-21 15:06:53  [INFO]  --- PassKeeper starting (pid=14912) ---
+2026-06-21 15:06:53  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:06:53  [INFO]  Security scan clean.
+2026-06-21 15:06:58  [INFO]  --- PassKeeper starting (pid=3188) ---
+2026-06-21 15:06:58  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:06:58  [INFO]  Security scan clean.
+2026-06-21 15:07:46  [INFO]  --- PassKeeper starting (pid=23144) ---
+2026-06-21 15:07:46  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:07:46  [INFO]  Security scan clean.
+2026-06-21 15:07:48  [INFO]  --- PassKeeper starting (pid=19908) ---
+2026-06-21 15:07:48  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:07:48  [INFO]  Security scan clean.
+2026-06-21 15:08:20  [INFO]  --- PassKeeper starting (pid=11112) ---
+2026-06-21 15:08:20  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:08:20  [INFO]  Security scan clean.
+2026-06-21 15:08:22  [INFO]  --- PassKeeper starting (pid=26096) ---
+2026-06-21 15:08:22  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:08:22  [INFO]  Security scan clean.
+2026-06-21 15:08:26  [INFO]  --- PassKeeper starting (pid=13084) ---
+2026-06-21 15:08:26  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:08:26  [INFO]  Security scan clean.
+2026-06-21 15:09:08  [INFO]  --- PassKeeper starting (pid=20692) ---
+2026-06-21 15:09:08  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:09:08  [INFO]  Security scan clean.
+2026-06-21 15:09:45  [INFO]  --- PassKeeper starting (pid=20780) ---
+2026-06-21 15:09:45  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:09:45  [INFO]  Security scan clean.
+2026-06-21 15:10:40  [INFO]  --- PassKeeper starting (pid=27152) ---
+2026-06-21 15:10:40  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:10:40  [INFO]  Security scan clean.
+2026-06-21 15:11:22  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-21 15:11:48  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-21 15:11:48  [WARNING]  FAIL2BAN: workstation locked.
+2026-06-21 15:14:10  [INFO]  --- PassKeeper starting (pid=23328) ---
+2026-06-21 15:14:10  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:14:10  [INFO]  Security scan clean.
+2026-06-21 15:14:24  [INFO]  --- PassKeeper starting (pid=25232) ---
+2026-06-21 15:14:24  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:14:24  [INFO]  Security scan clean.
+2026-06-21 15:14:34  [INFO]  --- PassKeeper starting (pid=7204) ---
+2026-06-21 15:14:34  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:14:34  [INFO]  Security scan clean.
+2026-06-21 15:14:44  [INFO]  --- PassKeeper starting (pid=17412) ---
+2026-06-21 15:14:44  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:14:44  [INFO]  Security scan clean.
+2026-06-21 15:15:02  [INFO]  --- PassKeeper starting (pid=16368) ---
+2026-06-21 15:15:02  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:03  [INFO]  Security scan clean.
+2026-06-21 15:15:12  [INFO]  --- PassKeeper starting (pid=7740) ---
+2026-06-21 15:15:12  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:12  [INFO]  Security scan clean.
+2026-06-21 15:15:22  [INFO]  --- PassKeeper starting (pid=17672) ---
+2026-06-21 15:15:22  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:22  [INFO]  Security scan clean.
+2026-06-21 15:15:31  [INFO]  --- PassKeeper starting (pid=17672) ---
+2026-06-21 15:15:31  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:31  [INFO]  Security scan clean.
+2026-06-21 15:15:36  [INFO]  --- PassKeeper starting (pid=21456) ---
+2026-06-21 15:15:36  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:36  [INFO]  Security scan clean.
+2026-06-21 15:15:39  [INFO]  --- PassKeeper starting (pid=21456) ---
+2026-06-21 15:15:39  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:39  [INFO]  Security scan clean.
+2026-06-21 15:15:42  [INFO]  --- PassKeeper starting (pid=21456) ---
+2026-06-21 15:15:42  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:42  [INFO]  Security scan clean.
+2026-06-21 15:15:57  [INFO]  --- PassKeeper starting (pid=21456) ---
+2026-06-21 15:15:57  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:57  [INFO]  Security scan clean.
+2026-06-21 15:15:59  [INFO]  --- PassKeeper starting (pid=21456) ---
+2026-06-21 15:15:59  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:15:59  [INFO]  Security scan clean.
+2026-06-21 15:16:50  [INFO]  --- PassKeeper starting (pid=7044) ---
+2026-06-21 15:16:50  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:16:51  [INFO]  Security scan clean.
+2026-06-21 15:17:29  [INFO]  --- PassKeeper starting (pid=10456) ---
+2026-06-21 15:17:29  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 15:17:29  [INFO]  Security scan clean.
+2026-06-21 16:38:56  [INFO]  --- PassKeeper starting (pid=2800) ---
+2026-06-21 16:38:56  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 16:38:56  [INFO]  Security scan clean.
+2026-06-21 16:58:55  [INFO]  --- PassKeeper starting (pid=876) ---
+2026-06-21 16:58:55  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 16:58:56  [INFO]  Security scan clean.
+2026-06-21 17:03:55  [INFO]  --- PassKeeper starting (pid=20676) ---
+2026-06-21 17:03:55  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:03:55  [INFO]  Security scan clean.
+2026-06-21 17:06:01  [INFO]  --- PassKeeper starting (pid=14468) ---
+2026-06-21 17:06:01  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:06:02  [INFO]  Security scan clean.
+2026-06-21 17:06:06  [INFO]  --- PassKeeper starting (pid=12320) ---
+2026-06-21 17:06:06  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:06:07  [INFO]  Security scan clean.
+2026-06-21 17:08:01  [INFO]  --- PassKeeper starting (pid=12320) ---
+2026-06-21 17:08:01  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:08:01  [INFO]  Security scan clean.
+2026-06-21 17:08:15  [INFO]  --- PassKeeper starting (pid=3268) ---
+2026-06-21 17:08:15  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:08:15  [INFO]  Security scan clean.
+2026-06-21 17:08:26  [INFO]  --- PassKeeper starting (pid=3268) ---
+2026-06-21 17:08:26  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:08:26  [INFO]  Security scan clean.
+2026-06-21 17:08:33  [INFO]  Security scan clean.
+2026-06-21 17:08:33  [INFO]  Login successful.
+2026-06-21 17:10:55  [INFO]  --- PassKeeper starting (pid=3268) ---
+2026-06-21 17:10:55  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:10:56  [INFO]  Security scan clean.
+2026-06-21 17:11:06  [INFO]  Security scan clean.
+2026-06-21 17:11:06  [INFO]  Login successful.
+2026-06-21 17:12:57  [INFO]  --- PassKeeper starting (pid=7436) ---
+2026-06-21 17:12:57  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:12:58  [INFO]  Security scan clean.
+2026-06-21 17:13:03  [INFO]  Security scan clean.
+2026-06-21 17:13:03  [INFO]  Login successful.
+2026-06-21 17:17:26  [INFO]  --- PassKeeper starting (pid=16516) ---
+2026-06-21 17:17:26  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:17:26  [INFO]  Security scan clean.
+2026-06-21 17:17:40  [INFO]  --- PassKeeper starting (pid=13236) ---
+2026-06-21 17:17:40  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:17:40  [INFO]  Security scan clean.
+2026-06-21 17:17:52  [INFO]  Security scan clean.
+2026-06-21 17:17:52  [INFO]  Login successful.
+2026-06-21 17:20:17  [INFO]  --- PassKeeper starting (pid=25736) ---
+2026-06-21 17:20:17  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:20:18  [INFO]  Security scan clean.
+2026-06-21 17:20:30  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-21 17:20:39  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-21 17:20:39  [WARNING]  FAIL2BAN: workstation locked.
+2026-06-21 17:20:57  [WARNING]  FAIL2BAN: failed attempt #3.
+2026-06-21 17:21:36  [WARNING]  FAIL2BAN: failed attempt #4.
+2026-06-21 17:23:00  [WARNING]  FAIL2BAN: failed attempt #5.
+2026-06-21 17:23:00  [CRITICAL]  FAIL2BAN: ban stage 1 — 10 min (attempt 5).
+2026-06-21 17:24:27  [INFO]  --- PassKeeper starting (pid=24380) ---
+2026-06-21 17:24:27  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:24:27  [INFO]  Security scan clean.
+2026-06-21 17:25:44  [INFO]  --- PassKeeper starting (pid=3548) ---
+2026-06-21 17:25:44  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:25:44  [INFO]  Security scan clean.
+2026-06-21 17:25:44  [CRITICAL]  FAIL2BAN: HMAC mismatch — state file was tampered with! Treating attempt counter as maximum.
+2026-06-21 17:25:44  [CRITICAL]  FAIL2BAN: tampered state detected on get_ban_status.
+2026-06-21 17:26:31  [INFO]  --- PassKeeper starting (pid=23436) ---
+2026-06-21 17:26:31  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:26:31  [INFO]  Security scan clean.
+2026-06-21 17:26:49  [INFO]  Security scan clean.
+2026-06-21 17:26:49  [INFO]  FAIL2BAN: new HMAC secret generated.
+2026-06-21 17:26:49  [INFO]  Login successful.
+2026-06-21 17:28:10  [INFO]  --- PassKeeper starting (pid=26616) ---
+2026-06-21 17:28:10  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:28:10  [INFO]  Security scan clean.
+2026-06-21 17:28:15  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-21 17:28:21  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-21 17:28:21  [WARNING]  FAIL2BAN: workstation locked.
+2026-06-21 17:28:30  [WARNING]  FAIL2BAN: failed attempt #3.
+2026-06-21 17:28:32  [WARNING]  FAIL2BAN: failed attempt #4.
+2026-06-21 17:28:45  [INFO]  Security scan clean.
+2026-06-21 17:28:45  [INFO]  FAIL2BAN: login OK after 4 failed attempt(s). Counter reset.
+2026-06-21 17:28:50  [INFO]  --- PassKeeper starting (pid=24532) ---
+2026-06-21 17:28:50  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:28:50  [INFO]  Security scan clean.
+2026-06-21 17:29:04  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-21 17:29:16  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-21 17:29:16  [WARNING]  FAIL2BAN: workstation locked.
+2026-06-21 17:29:29  [INFO]  Security scan clean.
+2026-06-21 17:29:29  [INFO]  FAIL2BAN: login OK after 2 failed attempt(s). Counter reset.
+2026-06-21 17:30:01  [INFO]  --- PassKeeper starting (pid=4756) ---
+2026-06-21 17:30:01  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:30:01  [INFO]  Security scan clean.
+2026-06-21 17:30:08  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-21 17:30:40  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-21 17:30:40  [WARNING]  FAIL2BAN: workstation locked.

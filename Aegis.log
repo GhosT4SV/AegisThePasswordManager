@@ -1,0 +1,107 @@
+2026-06-21 17:34:18  [INFO]  --- Aegis starting (pid=12824) ---
+2026-06-21 17:34:18  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:34:18  [INFO]  Security scan clean.
+2026-06-21 17:34:34  [INFO]  Security scan clean.
+2026-06-21 17:34:34  [INFO]  FAIL2BAN: new HMAC secret generated.
+2026-06-21 17:34:34  [INFO]  Login successful.
+2026-06-21 17:35:23  [INFO]  --- Aegis starting (pid=26408) ---
+2026-06-21 17:35:23  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:35:23  [INFO]  Security scan clean.
+2026-06-21 17:35:36  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-21 17:36:26  [INFO]  Security scan clean.
+2026-06-21 17:36:26  [INFO]  FAIL2BAN: login OK after 1 failed attempt(s). Counter reset.
+2026-06-21 17:36:35  [INFO]  --- Aegis starting (pid=28644) ---
+2026-06-21 17:36:35  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:36:35  [INFO]  Security scan clean.
+2026-06-21 17:36:37  [INFO]  --- Aegis starting (pid=28644) ---
+2026-06-21 17:36:37  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:36:37  [INFO]  Security scan clean.
+2026-06-21 17:37:40  [INFO]  --- Aegis starting (pid=8724) ---
+2026-06-21 17:37:40  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:37:40  [INFO]  Security scan clean.
+2026-06-21 17:39:36  [INFO]  --- Aegis starting (pid=16304) ---
+2026-06-21 17:39:36  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:39:36  [INFO]  Security scan clean.
+2026-06-21 17:39:53  [INFO]  Security scan clean.
+2026-06-21 17:39:53  [INFO]  FAIL2BAN: new HMAC secret generated.
+2026-06-21 17:39:53  [INFO]  Login successful.
+2026-06-21 17:40:15  [INFO]  --- Aegis starting (pid=24936) ---
+2026-06-21 17:40:15  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:40:15  [INFO]  Security scan clean.
+2026-06-21 17:40:23  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-21 17:40:33  [INFO]  Security scan clean.
+2026-06-21 17:40:33  [INFO]  FAIL2BAN: login OK after 1 failed attempt(s). Counter reset.
+2026-06-21 17:40:48  [INFO]  --- Aegis starting (pid=10192) ---
+2026-06-21 17:40:48  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 17:40:49  [INFO]  Security scan clean.
+2026-06-21 17:40:57  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-21 17:41:01  [INFO]  Security scan clean.
+2026-06-21 17:41:01  [INFO]  FAIL2BAN: login OK after 1 failed attempt(s). Counter reset.
+2026-06-21 18:10:23  [INFO]  --- Aegis starting (pid=3056) ---
+2026-06-21 18:10:23  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 18:10:23  [INFO]  Security scan clean.
+2026-06-21 18:11:12  [INFO]  --- Aegis starting (pid=25408) ---
+2026-06-21 18:11:12  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 18:11:12  [INFO]  Security scan clean.
+2026-06-21 18:11:20  [INFO]  Security scan clean.
+2026-06-21 18:11:20  [INFO]  Login successful.
+2026-06-21 23:01:53  [INFO]  --- Aegis starting (pid=26040) ---
+2026-06-21 23:01:53  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:01:54  [INFO]  Security scan clean.
+2026-06-21 23:05:05  [INFO]  --- Aegis starting (pid=13576) ---
+2026-06-21 23:05:05  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:05:06  [INFO]  Security scan clean.
+2026-06-21 23:05:08  [INFO]  --- Aegis starting (pid=10772) ---
+2026-06-21 23:05:08  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:05:09  [INFO]  Security scan clean.
+2026-06-21 23:05:11  [INFO]  --- Aegis starting (pid=11364) ---
+2026-06-21 23:05:11  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:05:11  [INFO]  Security scan clean.
+2026-06-21 23:05:49  [INFO]  --- Aegis starting (pid=23488) ---
+2026-06-21 23:05:49  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:05:49  [INFO]  Security scan clean.
+2026-06-21 23:08:08  [INFO]  --- Aegis starting (pid=13072) ---
+2026-06-21 23:08:08  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:08:08  [INFO]  Security scan clean.
+2026-06-21 23:09:47  [INFO]  --- Aegis starting (pid=16928) ---
+2026-06-21 23:09:47  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:09:47  [INFO]  Security scan clean.
+2026-06-21 23:10:18  [INFO]  --- Aegis starting (pid=21168) ---
+2026-06-21 23:10:18  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:10:19  [INFO]  Security scan clean.
+2026-06-21 23:12:46  [INFO]  --- Aegis starting (pid=1816) ---
+2026-06-21 23:12:46  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:12:46  [INFO]  Security scan clean.
+2026-06-21 23:12:53  [INFO]  --- Aegis starting (pid=22224) ---
+2026-06-21 23:12:53  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:12:54  [INFO]  Security scan clean.
+2026-06-21 23:12:55  [INFO]  --- Aegis starting (pid=16396) ---
+2026-06-21 23:12:55  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:12:56  [INFO]  Security scan clean.
+2026-06-21 23:13:08  [INFO]  Security scan clean.
+2026-06-21 23:13:08  [INFO]  Login successful.
+2026-06-21 23:19:31  [INFO]  --- Aegis starting (pid=13028) ---
+2026-06-21 23:19:31  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-21 23:19:31  [INFO]  Security scan clean.
+2026-06-21 23:19:40  [INFO]  Security scan clean.
+2026-06-21 23:19:40  [INFO]  Login successful.
+2026-06-22 03:41:15  [INFO]  --- Aegis starting (pid=19012) ---
+2026-06-22 03:41:15  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-22 03:41:16  [INFO]  Security scan clean.
+2026-06-22 03:41:25  [INFO]  Security scan clean.
+2026-06-22 03:41:25  [INFO]  Login successful.
+2026-06-22 05:58:53  [INFO]  --- Aegis starting (pid=14068) ---
+2026-06-22 05:58:53  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-22 05:58:53  [INFO]  Security scan clean.
+2026-06-22 05:59:36  [WARNING]  FAIL2BAN: failed attempt #1.
+2026-06-22 06:00:28  [WARNING]  FAIL2BAN: failed attempt #2.
+2026-06-22 06:00:28  [WARNING]  FAIL2BAN: workstation locked.
+2026-06-22 06:00:35  [WARNING]  FAIL2BAN: failed attempt #3.
+2026-06-22 06:00:37  [WARNING]  FAIL2BAN: failed attempt #4.
+2026-06-22 06:00:38  [WARNING]  FAIL2BAN: failed attempt #5.
+2026-06-22 06:00:38  [CRITICAL]  FAIL2BAN: ban stage 1 — 10 min (attempt 5).
+2026-06-22 06:10:43  [INFO]  --- Aegis starting (pid=14644) ---
+2026-06-22 06:10:43  [WARNING]  Hash manifest missing — skipping integrity check.
+2026-06-22 06:10:43  [INFO]  Security scan clean.
+2026-06-22 06:10:43  [CRITICAL]  FAIL2BAN: HMAC mismatch — state file was tampered with! Treating attempt counter as maximum.
+2026-06-22 06:10:43  [CRITICAL]  FAIL2BAN: tampered state detected on get_ban_status.
