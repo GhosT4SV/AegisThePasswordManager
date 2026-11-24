@@ -1,5 +1,8 @@
 # Aegis
-![Uploading Comp 1.gif…]()
+
+<p align="center">
+  <img src="assets/AegisGifAnim.gif" width="240" alt="AegisAnimation" />
+</p>
 
 Локальный настольный менеджер паролей на Python и CustomTkinter.
 
